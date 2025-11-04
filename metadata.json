@@ -1,0 +1,5 @@
+{
+  "name": "Recipe Image Generator",
+  "description": "Generate high-resolution, professional images for cooking recipes. Input a recipe keyword, ingredients, and preparation steps to create a main image, an ingredients image, and step-by-step visuals, complete with AI-generated titles, captions, and descriptions.",
+  "requestFramePermissions": []
+}
